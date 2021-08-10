@@ -1,0 +1,27 @@
+h2 {
+    color: #022b55;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0px;
+}
+
+#skema .col {
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#skema .col a {
+    text-decoration: none;
+}
+
+#skema .col a:hover {
+    color: #dfc353 !important;
+    transition: 200ms ease-out;
+}
+
+@media screen and (max-width: 700px) {
+    #skema .col {
+        width: 100%;
+    }
+}

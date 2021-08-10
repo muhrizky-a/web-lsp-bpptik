@@ -1,0 +1,29 @@
+/* Override style dari card.css */
+
+.featured-image {
+    height: 150px;
+    min-height: 150px;
+    max-height: 150px;
+}
+
+.card-title {
+    -webkit-line-clamp: 4;
+}
+
+@media screen and (max-width: 991px) {
+    #content,
+    aside {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    #content {
+        width: 70%;
+        float: left;
+    }
+    aside {
+        width: 30%;
+        float: right;
+    }
+}

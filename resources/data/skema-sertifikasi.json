@@ -1,0 +1,242 @@
+[{
+        "skema": "Skema Sertifikasi Okupasi Teknisi Utama Jaringan Komputer",
+        "deskripsi": "Jenis kemasan ini adalah kemasan okupasi TEKNISI UTAMA JARINGAN KOMPUTER dilingkungan kantor pemerintahan atau swasta. Okupasi ini merefleksikan peran individu dalam melaksanakan satu tugas spesifik, seperti memasang dan mengkonfigurasi perangkat jaringan dan prosedur kerja yang lazim dilakukan, serta menunjukkan kinerja dengan mutu yang terukur, di bawah pengawasan tidak langsung atasannya.  Memiliki pengetahuan operasional dasar dan pengetahuan faktual bidang kerja yang spesifik, sehingga mampu memilih penyelesaian yang tersedia terhadap masalah yang lazim timbul. Bertanggung jawab pada pekerjaan sendiri.",
+        "rincian": [{
+                "kode-unit": "J.611000.014.02",
+                "judul-unit": "Mengkonfigurasi Routing pada Perangkat 1 Jaringan antar Autonomous System"
+            },
+            {
+                "kode-unit": "J.611000.001.01",
+                "judul-unit": "Mengumpulkan Kebutuhan Teknis Pengguna yang Menggunakan Jaringan"
+            },
+            {
+                "kode-unit": "J.611000.004.01",
+                "judul-unit": "Merancang Pengalamatan Jaringan"
+            },
+            {
+                "kode-unit": "J.611000.013.02",
+                "judul-unit": "Mengkonfigurasi Routing pada Perangkat Jaringan dalam Satu Autonomous System"
+            },
+            {
+                "kode-unit": "J.611000.009.02",
+                "judul-unit": "Memasang Kabel Jaringan"
+            },
+            {
+                "kode-unit": "J.611000.010.02",
+                "judul-unit": "Memasang Jaringan Nirkabel"
+            },
+            {
+                "kode-unit": "J.611000.003.02",
+                "judul-unit": "Merancang Topologi Jaringan"
+            },
+            {
+                "kode-unit": "J.611000.002.01",
+                "judul-unit": "Mengumpulkan Data Peralatan Jaringan Dengan Teknologi yang Sesuai"
+            },
+            {
+                "kode-unit": "J.611000.005.02",
+                "judul-unit": "Menentukan Spesifikasi Perangkat Jaringan"
+            },
+            {
+                "kode-unit": "J.611000.012.02",
+                "judul-unit": "Mengkonfigurasi Switch pada Jaringan"
+            }
+        ]
+    },
+    {
+        "skema": "Skema Sertifikasi Okupasi Junior Office Operator",
+        "deskripsi": "Jenis kemasan ini adalah kemasan okupasi JUNIOR OFFICE OPERATOR dilingkungan kantor pemerintahan atau swasta. Okupasi ini merefleksikan peran individu dalam melaksanakan  satu tugas spesifik, dengan menggunakan perangkat lunak aplikasi perkantoran dan perangkat keras,informasi, dan prosedur kerja yang lazim dilakukan, serta menunjukkan kinerja dengan mutu yang terukur, di bawah pengawasan tidak langsung atasannya.  Memiliki pengetahuan operasional dasar dan pengetahuan faktual bidang kerja yang spesifik, sehingga mampu memilih penyelesaian yang tersedia terhadap masalah yang lazim timbul. Bertanggung jawab pada pekerjaan sendiri.",
+        "rincian": [{
+                "kode-unit": "J.63OPR00.003.2",
+                "judul-unit": "Menggunakan peralatan peripheral"
+            },
+            {
+                "kode-unit": "J.63OPR00.004.2",
+                "judul-unit": "Menggunakan perangkat lunak pengolah kata - tingkat dasar"
+            },
+            {
+                "kode-unit": "J.63OPR00.005.2",
+                "judul-unit": "Menggunakan perangkat lunak lembar kerja - tingkat dasar"
+            },
+            {
+                "kode-unit": "J.63OPR00.006.2",
+                "judul-unit": "Menggunakan perangkat lunak presentasi - tingkat dasar"
+            },
+            {
+                "kode-unit": "J.63OPR00.008.2",
+                "judul-unit": "Menggunakan perangkat lunak pengakses surat elektronik (e-mail client)"
+            },
+            {
+                "kode-unit": "J.63OPR00.009.2",
+                "judul-unit": "Menggunakan aplikasi berbasis internet"
+            },
+            {
+                "kode-unit": "J.63OPR00.010.1",
+                "judul-unit": "Menggunakan aplikasi media sosial"
+            },
+            {
+                "kode-unit": "J.63OPR00.015.1",
+                "judul-unit": "Memastikan validitas data"
+            },
+            {
+                "kode-unit": "J.63OPR00.016.1",
+                "judul-unit": "Mengidentifikasi aspek keamanan informasi pengguna"
+            }
+        ]
+    },
+    {
+        "skema": "Skema Sertifikasi Okupasi Pengembang Web Pratama (Junior Web Developer)",
+        "deskripsi": "Jenis kemasan ini adalah kemasan okupasi PENGEMBANG WEB PRATAMA (JUNIOR WEB DEVELOPER) di lingkungan kantor pemerintahan atau swasta. Okupasi ini merefleksikan peran individu dalam melaksanakan satu tugas spesifik, dengan menggunakan perangkat lunak tools pemrograman, informasi, dan prosedur kerja yang lazim dilakukan, serta menunjukkan kinerja dengan mutu yang terukur, di bawah pengawasan tidak langsung atasannya.  Memiliki pengetahuan operasional dasar dan pengetahuan faktual bidang kerja yang spesifik, sehingga mampu memilih penyelesaian yang tersedia terhadap masalah yang lazim timbul. Bertanggung jawab pada pekerjaan sendiri.",
+        "rincian": [{
+                "kode-unit": "J.620100.010.01",
+                "judul-unit": "Menerapkan perintah eksekusi bahasa pemrograman berbasis text, grafik, dan multimedia"
+            },
+            {
+                "kode-unit": "J.620100.019.02",
+                "judul-unit": "Menggunakan Library atau Komponen Pre- Existing"
+            },
+            {
+                "kode-unit": "J.620100.017.02",
+                "judul-unit": "Mengimplementasikan Pemrograman Terstruktur"
+            },
+            {
+                "kode-unit": "J.620100.005.02",
+                "judul-unit": "Mengimplementasikan User Interface"
+            },
+            {
+                "kode-unit": "J.620100.015.01",
+                "judul-unit": "Menyusun Fungsi, File atau Sumber Daya Pemrograman yang Lain dalam Organisasi yang Rapi."
+            },
+            {
+                "kode-unit": "J.620100.016.01",
+                "judul-unit": "Menulis Kode dengan Prinsip Sesuai Guidelines dan Best Practices"
+            }
+        ]
+    },
+    {
+        "skema": "Skema Sertifikasi Okupasi Desainer Grafis Muda (Junior Graphic Designer)",
+        "deskripsi": "Jenis kemasan ini adalah kemasan okupasi DESAINER GRAFIS MUDA (JUNIOR GRAPHIC DESIGNER) dilingkungan kantor pemerintahan atau swasta. Okupasi ini merefleksikan peran individu dalam melaksanakan satu tugas spesifik, dengan menggunakan perangkat lunak desain, informasi, dan prosedur kerja yang lazim dilakukan, serta menunjukkan kinerja dengan mutu yang terukur, di bawah pengawasan tidak langsung atasannya. Memiliki pengetahuan operasional dasar dan pengetahuan faktual bidang kerja yang spesifik, sehingga mampu memilih penyelesaian yang tersedia terhadap masalah yang lazim timbul. Bertanggung jawab pada pekerjaan sendiri.",
+        "rincian": [{
+                "kode-unit": "M.74100.002.02",
+                "judul-unit": "Menerapkan Prinsip Dasar Komunikasi"
+            },
+            {
+                "kode-unit": "M.74100.005.02",
+                "judul-unit": "Menerapkan Design Brief"
+            },
+            {
+                "kode-unit": "M.74100.010.01",
+                "judul-unit": "Menciptakan Karya Desain"
+            },
+            {
+                "kode-unit": "M.74100.001.02",
+                "judul-unit": "Mengaplikasikan Prinsip Dasar Desain"
+            },
+            {
+                "kode-unit": "M.74100.009.02",
+                "judul-unit": "Mengoperasikan Perangkat Lunak Desain"
+            }
+        ]
+    },
+    {
+        "skema": "Skema Sertifikasi Okupasi Network Administrator Muda (Junior Network Administrator)",
+        "deskripsi": "Jenis kemasan ini adalah kemasan okupasi NETWORK ADMINISTRATOR MUDA (JUNIOR NETWORK ADMINISTRATOR) di lingkungan kantor pemerintahan atau swasta. Okupasi ini merefleksikan peran individu dalam melaksanakan satu tugas spesifik, seperti memasang dan mengkonfigurasi perangkat jaringan dan prosedur kerja yang lazim dilakukan, serta menunjukkan kinerja dengan mutu yang terukur, di bawah pengawasan tidak langsung atasannya.  Memiliki pengetahuan operasional dasar dan pengetahuan faktual bidang kerja yang spesifik, sehingga mampu memilih penyelesaian yang tersedia terhadap masalah yang lazim timbul. Bertanggung jawab pada pekerjaan sendiri.",
+        "rincian": [
+
+            {
+                "kode-unit": "J.611000.004.01",
+                "judul-unit": "Merancang Pengalamatan Jaringan"
+            },
+            {
+                "kode-unit": "J.611000.010.02",
+                "judul-unit": "Memasang Jaringan Nirkabel"
+            },
+            {
+                "kode-unit": "J.611000.012.02",
+                "judul-unit": "Mengkonfigurasi Switch pada Jaringan"
+            },
+            {
+                "kode-unit": "J.611000.013.02",
+                "judul-unit": "Mengkonfigurasi Routing pada Perangkat Jaringan dalam Satu Autonomous System"
+            },
+            {
+                "kode-unit": "J.611000.014.02",
+                "judul-unit": "Mengkonfigurasi Routing pada Perangkat 1 Jaringan antar Autonomous System"
+            }
+        ]
+    },
+    {
+        "skema": "Skema Sertifikasi Okupasi Pemrogram Mobil Pratama (Junior Mobile Programmer)",
+        "deskripsi": "Jenis kemasan ini adalah kemasan okupasi PEMROGRAM MOBIL PRATAMA (JUNIOR MOBILE PROGRAMMER) di lingkungan kantor pemerintahan atau swasta. Okupasi ini merefleksikan peran individu dalam melaksanakan satu tugas spesifik, dengan melakukan interaksi antara pengguna dan komputer dimana komputer dapat dibawa kemana saja mengikuti manusia yang berpindah tempat dan selalu terkoneksi dengan jaringan internet, serta menunjukkan kinerja dengan mutu yang terukur, di bawah pengawasan tidak langsung atasannya.  Memiliki pengetahuan operasional dasar dan pengetahuan faktual bidang kerja yang spesifik, sehingga mampu memilih penyelesaian yang tersedia terhadap masalah yang lazim timbul. Bertanggung jawab pada pekerjaan sendiri.",
+        "rincian": [{
+                "kode-unit": "J.612000.001",
+                "judul-unit": "Menunjukkan platform operating system dan bahasa pemrograman di dalam perangkat lunak"
+            },
+            {
+                "kode-unit": "J.612000.003",
+                "judul-unit": "Merancang database dan data persistence pada mobile data"
+            },
+            {
+                "kode-unit": "J.612000.006",
+                "judul-unit": "Menyusun mobile location based service, GPS dan mobile navigation"
+            },
+            {
+                "kode-unit": "J.612000.007",
+                "judul-unit": "Merancang mobile interface"
+            },
+            {
+                "kode-unit": "J.612000.008",
+                "judul-unit": "Menjelaskan dasar-dasar mobile security"
+            },
+            {
+                "kode-unit": "J.612000.022",
+                "judul-unit": "Menjelaskan mobile sensor dan spesifikasi teknisnya untuk mobile computing"
+            },
+            {
+                "kode-unit": "J.612000.025",
+                "judul-unit": "Menentukan mobile seluler network"
+            }
+        ]
+    },
+    {
+        "skema": "Skema Sertifikasi Okupasi Animator Madya (Intermediate Animator)",
+        "deskripsi": "Jenis kemasan ini adalah kemasan okupasi ANIMATOR MADYA (INTERMEDIATE ANIMATOR) di lingkungan kantor pemerintahan atau swasta. Okupasi ini merefleksikan peran individu dalam melaksanakan satu tugas spesifik, seperti membuat model, gerak dan pencahayaan objek non karakter dan prosedur kerja yang lazim dilakukan, serta menunjukkan kinerja dengan mutu yang terukur, di bawah pengawasan tidak langsung atasannya.  Memiliki pengetahuan operasional dasar dan pengetahuan faktual bidang kerja yang spesifik, sehingga mampu memilih penyelesaian yang tersedia terhadap masalah yang lazim timbul. Bertanggung jawab pada pekerjaan sendiri.",
+        "rincian": [{
+                "kode-unit": "J.591120.019.01",
+                "judul-unit": "Membuat Komposisi Teknik Layer 2 Dimensi (2D Compositing)"
+            },
+            {
+                "kode-unit": "J.59MTM00.011.1",
+                "judul-unit": "Membuat Aset Visual Berdasarkan Langkah Kerja yang Telah Ditetapkan"
+            },
+            {
+                "kode-unit": "J.591120.004.01",
+                "judul-unit": "Membuat Gerak Digital Non Character"
+            },
+            {
+                "kode-unit": "J.591120.008.01",
+                "judul-unit": "Membuat Model Digital Hardsurface 3 Dimensi"
+            },
+            {
+                "kode-unit": "J.591120.012.01",
+                "judul-unit": "Membuat Pencitraan Gambar Digital (Rendering)"
+            },
+            {
+                "kode-unit": "J.591120.020.01",
+                "judul-unit": "Membuat Pencitraan Cahaya Digital"
+            },
+            {
+                "kode-unit": "J.591120.021.01",
+                "judul-unit": "Membuat Pencitraan Sifat Permukaan (Shading)"
+            },
+            {
+                "kode-unit": "J.591120.022.01",
+                "judul-unit": "Membuat Komposisi Teknik Layer 3 Dimensi (3D Compositor)"
+            },
+            {
+                "kode-unit": "J.591120.031.01",
+                "judul-unit": "Membuat Sudut Pandang Kamera Digital"
+            }
+        ]
+    }
+]

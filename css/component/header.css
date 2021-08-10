@@ -1,0 +1,29 @@
+/* Override padding default pada .container-fluid */
+
+.container-fluid {
+    padding: 0px 50px !important;
+}
+
+
+/* Reset padding default pada .navbar-nav */
+
+.navbar-nav {
+    padding: 0 !important;
+}
+
+.mode-switch,
+.navbar-logo a {
+    color: #eee;
+}
+
+.nav-link {
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: #1a4167 important;
+}
+
+.navbar-logo a {
+    margin-right: 20px;
+}

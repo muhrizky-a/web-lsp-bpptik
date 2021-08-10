@@ -1,0 +1,23 @@
+.tabel-pelatihan {
+    padding: 20px 0px
+}
+
+.info-pelatihan {
+    display: inline;
+    align-content: space-between;
+}
+
+.info-pelatihan h4 {
+    float: left;
+}
+
+.info-pelatihan a {
+    float: right;
+    list-style: none;
+    text-decoration: none;
+}
+
+.info-pelatihan a,
+.fa-file-excel-o {
+    color: seagreen;
+}

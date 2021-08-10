@@ -1,0 +1,37 @@
+/* Style umum untuk halaman jenis artikel */
+
+main {
+    overflow: auto;
+}
+
+#content {
+    height: auto;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: rgb(248, 248, 248);
+}
+
+h2,
+h4,
+strong {
+    color: #022b55;
+    font-weight: bold;
+}
+
+article {
+    margin: 20px 0px;
+}
+
+aside {
+    padding: 0px 20px;
+}
+
+#sidebar-news {
+    margin-top: 20px;
+}
+
+.sidebar-nav img {
+    width: 300px;
+    min-width: 300px;
+    max-width: 300px;
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "pelatihan": "Pelatihan Video Production",
+    "kode": "P-2016-002",
+    "jenis": "Pengguna",
+    "jenjang": "Pengawas",
+    "durasi": 44
+  },
+  {
+    "pelatihan": "Pelatihan Database Development Tingkat Dasar",
+    "kode": "P-2017-001",
+    "jenis": "Pengelola",
+    "jenjang": "Pelaksana",
+    "durasi": 40
+  },
+  {
+    "pelatihan": "Pelatihan Web Design",
+    "kode": "P-2017-003",
+    "jenis": "Pengelola",
+    "jenjang": "Pengawas",
+    "durasi": 40
+  },
+  {
+    "pelatihan": "Pelatihan Aplikasi SiMaya",
+    "kode": "P-2017-005",
+    "jenis": "Pengguna",
+    "jenjang": "Pelaksana",
+    "durasi": 30
+  },
+  {
+    "pelatihan": "Pelatihan Esensi TIK",
+    "kode": "P-2017-006",
+    "jenis": "Pengguna",
+    "jenjang": "Pelaksana",
+    "durasi": 40
+  },
+  {
+    "pelatihan": "Pelatihan Pengelolaan Informasi Publik",
+    "kode": "P-2017-008",
+    "jenis": "Pengguna",
+    "jenjang": "Pengawas",
+    "durasi": 40
+  },
+  {
+    "pelatihan": "Pelatihan Desktop Programming Tingkat Dasar",
+    "kode": "P-2017-010",
+    "jenis": "Pengelola",
+    "jenjang": "Pelaksana",
+    "durasi": 40
+  },
+  {
+    "pelatihan": "Pelatihan System Administration Tingkat Dasar",
+    "kode": "P-2017-012",
+    "jenis": "Pengelola",
+    "jenjang": "Pelaksana",
+    "durasi": 40
+  },
+  {
+    "pelatihan": "Pelatihan Database Development Tingkat Lanjutan",
+    "kode": "P-2017-013",
+    "jenis": "Pengelola",
+    "jenjang": "Pengawas",
+    "durasi": 40
+  },
+  {
+    "pelatihan": "Pelatihan Web Programming Tingkat Lanjutan",
+    "kode": "P-2017-014",
+    "jenis": "Pengelola",
+    "jenjang": "Pengawas",
+    "durasi": 40
+  },
+  {
+    "pelatihan": "Pelatihan Desktop Programming Tingkat Lanjutan",
+    "kode": "P-2017-015",
+    "jenis": "Pengelola",
+    "jenjang": "Pengawas",
+    "durasi": 40
+  },
+  {
+    "pelatihan": "Pelatihan System Administration Tingkat Lanjutan",
+    "kode": "P-2017-016",
+    "jenis": "Pengelola",
+    "jenjang": "Pengawas",
+    "durasi": 40
+  },
+  {
+    "pelatihan": "Pelatihan Network Administration Tingkat Lanjutan",
+    "kode": "P-2017-017",
+    "jenis": "Pengelola",
+    "jenjang": "Pengawas",
+    "durasi": 40
+  },
+  {
+    "pelatihan": "Pelatihan Database Development Tingkat Mahir",
+    "kode": "P-2017-018",
+    "jenis": "Pengelola",
+    "jenjang": "Administrator",
+    "durasi": 40
+  },
+  {
+    "pelatihan": "Pelatihan Web Programming Tingkat Mahir",
+    "kode": "P-2017-019",
+    "jenis": "Pengelola",
+    "jenjang": "Administrator",
+    "durasi": 40
+  },
+  {
+    "pelatihan": "Pelatihan Desktop Programming Tingkat Mahir",
+    "kode": "P-2017-020",
+    "jenis": "Pengelola",
+    "jenjang": "Administrator",
+    "durasi": 40
+  },
+  {
+    "pelatihan": "Pelatihan Manajemen Proyek",
+    "kode": "P-2017-021",
+    "jenis": "Pengelola",
+    "jenjang": "Administrator",
+    "durasi": 40
+  },
+  {
+    "pelatihan": "Pelatihan System Administration Tingkat Mahir",
+    "kode": "P-2017-022",
+    "jenis": "Pengelola",
+    "jenjang": "Administrator",
+    "durasi": 40
+  },
+  {
+    "pelatihan": "Pelatihan Network Administration Tingkat Mahir",
+    "kode": "P-2017-023",
+    "jenis": "Pengelola",
+    "jenjang": "Administrator",
+    "durasi": 40
+  },
+  {
+    "pelatihan": "Pelatihan Penyusunan Skema Sertifikasi Bidang TIK",
+    "kode": "P-2017-024",
+    "jenis": "Pengguna",
+    "jenjang": "Pelaksana",
+    "durasi": 34
+  },
+  {
+    "pelatihan": "Pelatihan Training of Trainers (ToT) Pelatihan Teknis Bidang TIK",
+    "kode": "P-2018-001",
+    "jenis": "Pengguna",
+    "jenjang": "Pengawas",
+    "durasi": 40
+  },
+  {
+    "pelatihan": "Pelatihan Teknisi Utama Jaringan Komputer",
+    "kode": "P-2018-002",
+    "jenis": "Pengelola",
+    "jenjang": "Pengawas",
+    "durasi": 97
+  },
+  {
+    "pelatihan": "Pelatihan Junior Graphic Design",
+    "kode": "P-2018-003",
+    "jenis": "Pengguna",
+    "jenjang": "Pengawas",
+    "durasi": 54
+  },
+  {
+    "pelatihan": "Pelatihan Junior Office Application",
+    "kode": "P-2018-004",
+    "jenis": "Pengguna",
+    "jenjang": "Pelaksana",
+    "durasi": 115
+  },
+  {
+    "pelatihan": "Pelatihan Junior Web Development",
+    "kode": "P-2018-005",
+    "jenis": "Pengelola",
+    "jenjang": "Pelaksana",
+    "durasi": 49
+  },
+  {
+    "pelatihan": "Pelatihan Junior Cyber Security",
+    "kode": "P-2018-006",
+    "jenis": "Pengelola",
+    "jenjang": "Pengawas",
+    "durasi": 42
+  },
+  {
+    "pelatihan": "Pelatihan Cyber Security Analyst",
+    "kode": "P-2018-007",
+    "jenis": "Pengelola",
+    "jenjang": "Administrator",
+    "durasi": 62
+  },
+  {
+    "pelatihan": "Pelatihan Teknisi Muda Jaringan Komputer",
+    "kode": "P-2018-008",
+    "jenis": "Pengelola",
+    "jenjang": "Pengawas",
+    "durasi": 55
+  },
+  {
+    "pelatihan": "Pelatihan Junior Web Programming",
+    "kode": "P-2018-009",
+    "jenis": "Pengelola",
+    "jenjang": "Pengawas",
+    "durasi": 65
+  },
+  {
+    "pelatihan": "Pelatihan Mobile Programming Tingkat Dasar",
+    "kode": "P-2018-010",
+    "jenis": "Pengelola",
+    "jenjang": "Pelaksana",
+    "durasi": 54
+  },
+  {
+    "pelatihan": "Pelatihan Advance Animation (3D)",
+    "kode": "P-2018-011",
+    "jenis": "Pengguna",
+    "jenjang": "Administrator",
+    "durasi": 80
+  },
+  {
+    "pelatihan": "Bimtek Pengelolaan Laboratorium Komputer Berbasis TIK",
+    "kode": "P-2018-012",
+    "jenis": "Pengelola",
+    "jenjang": "Pelaksana",
+    "durasi": 6
+  }
+]

@@ -1,0 +1,86 @@
+/*
+    Berisi style umum yang berlaku di semua halaman web
+*/
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #eee;
+}
+
+main {
+    margin: 50px;
+}
+
+p {
+    text-align: justify;
+}
+
+
+/* pengaturan image dengan / tanpa caption */
+
+.image-caption {
+    margin: auto;
+    height: fit-content;
+    width: fit-content;
+    border: 1px solid #ddd;
+    padding: 10px;
+    align-content: center;
+}
+
+.image-caption img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.image-caption p {
+    font-size: 12px;
+}
+
+
+/* Pengaturan Breadcrumb */
+
+nav[aria-label="breadcrumb"] {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #eee;
+    padding: 10px;
+}
+
+nav[aria-label="breadcrumb"] a {
+    text-decoration: none;
+}
+
+.bg-red {
+    background-color: #a41d31;
+}
+
+.bg-white {
+    background-color: #eee;
+}
+
+.bg-blue {
+    background-color: #1a4167;
+}
+
+.text-blue {
+    color: #1a4167;
+}
+
+.text-white {
+    color: #eee;
+}
+
+.reset-padding-margin {
+    padding: 0;
+    margin: 0;
+}
+
+.text-bold {
+    font-weight: bold;
+}

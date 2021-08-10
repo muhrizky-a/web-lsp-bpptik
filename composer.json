@@ -1,0 +1,7 @@
+{
+    "require": {
+        "components/jquery": "^3.5",
+        "twbs/bootstrap": "5.1.0",
+        "phpoffice/phpspreadsheet": "^1.18"
+    }
+}

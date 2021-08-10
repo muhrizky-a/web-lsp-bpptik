@@ -1,0 +1,35 @@
+.logo {
+    margin: 20px 0px;
+}
+
+img[alt="LSP BPPTIK"],
+img[alt="Badan Nasional Sertifikasi Profesi"] {
+    height: 100px;
+    min-height: 100px;
+    max-height: 100px;
+    object-fit: cover;
+}
+
+@media screen and (min-width: 720px) {
+    img[alt="Badan Nasional Sertifikasi Profesi"] {
+        float: right;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    #content,
+    aside {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    #content {
+        width: 70%;
+        float: left;
+    }
+    aside {
+        width: 30%;
+        float: right;
+    }
+}
