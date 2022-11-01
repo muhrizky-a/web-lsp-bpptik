@@ -10,7 +10,7 @@ Web LSP BPPTIK adalah aplikasi web yang berfungsi sebagai wadah informasi terkai
 - Halaman Berita
 
 # Tech
-Kalkulator Sederhana dibangun dengan berikut:
+Web ini dibangun dengan berikut:
 * [PENCIL PROJECT](https://pencil.evolus.vn) - open-source GUI prototyping tool that's available for All platforms.
 * [HTML](https://developer.mozilla.org/en-us/docs/web/HTML) - standard markup language for docuents designed to be developed in a web browser.
 * [CSS](https://developer.mozilla.org/en-us/docs/Learn/CSS) - style sheet language used for describing the presentation of a document written in a markup language.
